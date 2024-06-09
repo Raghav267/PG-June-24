@@ -1,0 +1,4 @@
+1.Install Vs code
+2. Install Git
+3.  Create Github Account
+4. Install Liver server extesnion in VS code..
