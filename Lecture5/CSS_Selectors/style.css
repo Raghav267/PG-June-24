@@ -1,0 +1,87 @@
+/* Element Selector */
+
+h1{
+    color: palevioletred;
+    border: 2px solid black;
+}
+
+
+
+h3{
+    color: lightcoral;
+    background-color: lightblue;
+}
+  
+
+/* iD selector */
+/* #special{
+    text-decoration: line-through;
+} */
+
+/* class selector */
+
+.para_one{
+    font-size: 30px;
+    font-style: italic;
+}
+
+
+/* attributr seletor  */
+
+a[href='http://google.com']{
+
+    color: lightseagreen;
+    font-size: 35px;
+
+}
+
+input[type="text"]{
+    background-color: lightblue;
+    border: 2px solid red;
+}
+
+
+
+
+/* Uniiversal selector */
+
+/* *{
+    border: 2px solid black;
+
+} */
+
+/* PsueoSelector */
+
+
+#youtube:visited{
+    color: red;
+
+
+}
+
+h1:active {
+    color : green;
+}
+
+input:focus{
+    background-color: lightgreen;
+}
+
+
+ /* nth od tyoe selctor  */
+
+ /* p:nth-of-type(1){
+    background-color: chocolate;
+ } */
+
+ div > p:nth-of-type(1){
+    background-color: chocolate;
+ }
+/* snext- ibling combinator */
+ h2 + ul{
+    border: 2px solid red;
+ }
+
+ p + ul{
+    border: 4px solid salmon;
+ }
