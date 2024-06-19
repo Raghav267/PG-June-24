@@ -1,0 +1,21 @@
+p{
+    /* Dimesions */
+    width: 400px;
+    height: 100px;
+
+/* Border  */
+    border: 2px solid black;
+
+
+    /* padding: ; */
+
+    padding: 20px 30px  ;
+/* margin  */
+
+    /* margin: 50px 20px 15px; */
+
+    margin-top: 20px;
+    margin-bottom: 15px;
+    margin-left: 50px;
+    margin-right: 25px;
+}
