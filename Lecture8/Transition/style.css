@@ -1,0 +1,54 @@
+h1{
+    text-align: center;
+    font-size: 80px;
+    transform: translateX(250);
+}
+
+/* .someclass{
+    height:350px;
+    width: 350px;
+    border: 2px solid black;
+    margin: 30px auto;
+    background-color: lightcoral;
+
+}
+
+div{
+    height:350px;
+    width: 350px;
+    border: 2px solid black;
+    margin: 30px auto;
+    background-color: yellow;
+
+} */
+
+#transition{
+    height:350px;
+    width: 350px;
+    border: 2px solid black;
+    margin: 30px auto;
+    background-color: aquamarine;
+}
+
+
+h1:active{
+    color: aqua;
+    transform: rotateZ(90deg)
+}
+
+#transition:hover{
+    border-radius: 50%;
+    background-color: bisque;
+    transition-duration: 2s;
+    transition-delay: 500ms;
+    /* transition-timing-function: linear; */
+    /* transition-timing-function: ease-in-out; */
+    transition-timing-function: ease-out;
+    /* transition-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1.275); */
+    transition-timing-function: linear;
+
+    transition-property: all;
+}
+
+
+
