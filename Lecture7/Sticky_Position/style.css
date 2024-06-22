@@ -1,0 +1,12 @@
+div{
+    border: 2px solid black;
+    background-color: aqua;
+    height: 50px;
+    padding: 8px;
+    margin-top: 10px;
+    position: sticky;
+
+    /* it is a combin of relaative+ fixed*/ 
+    top: 10px;
+    
+}

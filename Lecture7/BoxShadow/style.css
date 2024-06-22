@@ -1,0 +1,21 @@
+figure{
+    padding: 5px ;
+    width: 300px;
+    border: 2px solid #ccc;
+    box-shadow: 2px 4px 8px 7px lightgray;
+}
+
+figure img{
+    width: 70%;
+    box-shadow:2px 4px 8px 2px lightcoral;
+
+}
+h2{
+
+    box-shadow:2px 4px 3px lightcoral;
+
+}
+
+/* img {
+    width: 100%;
+} */

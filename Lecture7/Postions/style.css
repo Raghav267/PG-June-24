@@ -1,0 +1,52 @@
+section{
+    height: 400px;
+    width: 50vw;
+    padding: 3px;
+    /* position: relative  ; */
+
+    border: 2px solid black;    
+margin: 40px auto;
+/* overflow: hidden;
+ */
+ overflow: scroll;
+ /* overflow-y: scroll; */
+
+  /* overflow: auto; */
+}
+
+div{
+    display: inline-block;
+    height: 150px;
+    width: 150px;
+    font-size: medium;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+/* section #second{
+    position: static;
+    /* it is always positioned according to the normal flow of the page: */
+    /* top:40px;
+    left :50; */
+/* } */ 
+
+/* section #second{
+    position: relative; 
+    /* it shift with respec tot it initila postiton*/
+    /* top: 15px;
+    /* left: 15px; */
+    /* right: 30px; */
+
+/* } */
+
+/* section #second{
+    position: absolute;
+    top:30px;
+
+} */
+
+section #second{
+    position :fixed;
+    top: 3px;
+
+}
