@@ -1,0 +1,39 @@
+section{
+    width: 75vw;
+    border: 2px solid black;
+    padding: 15px;
+    margin: 20px auto;
+}
+h2{
+    text-align: center;
+    font-size: 6rem;
+}
+/* @media screen and (width <= 1148px) {
+    h2{
+        font-size: 2rem;
+        text-transform: uppercase;
+        text-decoration: underline;
+    }
+    
+}
+
+@media all  and (orientation:portrait) {
+    p{
+        color: brown;
+    }
+    h2{
+        font-size: 3rem;
+    }
+    
+} */
+
+
+@media screen and (max-width : 700px) {
+    h2{
+        color: lightcoral;
+        font-size: 2rem;
+    }
+    
+}
+
+/* home signup 
