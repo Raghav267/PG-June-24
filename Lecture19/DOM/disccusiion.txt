@@ -1,0 +1,40 @@
+JavaScript
+
+Basic js
+Conditionals
+Arrays
+Strings
+Loops
+Functions
+Hof
+Closure
+Callbacks
+Map, sort , reduce
+
+This was basic learning of js
+
+
+
+================================DOM============================================
+
+Document Object Model
+
+
+                html
+        head                body
+    title,                  h1
+    scripts,                tables
+    stylesheets             list
+
+
+DOM Manipulation is a two step process
+
+1. Selection
+2. Modification.
+
+
+Dom selectors
+1. getElementById
+2.getElementByclassName
+3.getElementBytagename
+
