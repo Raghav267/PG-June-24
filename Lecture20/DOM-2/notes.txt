@@ -1,0 +1,5 @@
+DOM Properties
+
+innerText == it is aware of styling
+textContent   = =its not  aware of style
+innerHtml
