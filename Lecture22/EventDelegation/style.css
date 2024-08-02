@@ -1,0 +1,17 @@
+section{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid black;
+    height: 700px;
+    width: 70vw;
+}
+
+figure{
+    height: 100px;
+    width: 100;
+    
+}
+img{
+    height: 100%;
+    width: 100%;
+}
