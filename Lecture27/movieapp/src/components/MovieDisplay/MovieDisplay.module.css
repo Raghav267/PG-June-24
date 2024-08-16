@@ -1,0 +1,15 @@
+
+.divClass{
+    border: 2px solid black;
+    height: 250px;
+    width: 200px;
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 20px;
+
+}
+
+.imgClass{
+    height: 100%;
+    width: 100%;
+}
