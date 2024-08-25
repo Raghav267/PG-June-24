@@ -1,0 +1,11 @@
+GEt and Post
+
+Get request
+1. Data is sent as query string parameter
+2. data is visible in url
+3. we could limit data 
+
+Post 
+1. Data is sent  in req.body
+2. Data is not visibile
+3. We could any amount of data.
