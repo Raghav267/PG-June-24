@@ -1,0 +1,22 @@
+DataBases
+
+a . Realtional     b.  Non - Realtional
+table                   documents
+Pkey and fkey           dont have 
+my sql postgre          MongoDB, Cassendra,
+mariaDB, OracleDB       Redis , DynamoDb , fireBase
+
+
+============================MongoDB===========================================
+1. document DataBase
+2. Flexible
+3. Easy To learn
+4. Higly Availabe
+5. data is stored in bson format(Binary Json);
+6. simliar to JS objects
+7. we store data in key value pair.
+
+========================CAP Theorem==================
+C = Consistency
+A = Availability
+P = Partion Tolrenace
