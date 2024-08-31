@@ -1,0 +1,19 @@
+Mongoose 
+    ODM (Object data Mapper)
+    The central goal of monggose is to have a easier way of interatcing with mongo db.
+
+Model
+    Monnoge use model 
+    it istechincally js class
+    model represtns a collection in db.
+
+schema 
+    map different object keys coming from db to different types in js.
+
+
+ collections= Model =schema=; 
+
+
+ Tommorow
+ Architectirre
+ basic crud operations;
