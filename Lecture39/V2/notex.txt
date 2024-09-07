@@ -1,0 +1,35 @@
+!:N
+
+product
+{
+    name:
+    price:
+    img:
+    desc:
+    reviews:[
+        "1"
+        ref:
+    ]
+
+}
+
+
+review
+{
+    rating: Number
+    comment: String
+}
+
+
+/////
+find the productt in which we want to add the review
+
+create a review
+
+add the review to the prodcuts
+
+savee the product
+
+
+HW
+Pagination
