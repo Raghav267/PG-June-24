@@ -1,0 +1,11 @@
+Session
+    Session     
+    Server side storage
+
+
+    Client A  =  -------localhost:3000 server = > sent a cokkkie to this client (id1)
+    client B  = --------localhost:3000 server => sent a cokkie to this client (id2)
+
+
+clieant A = brave = s%3AiT0JpvIOMYR7dDnXwuxQWAF_QoFCGGGh
+client B  = chrome  = s%3AhLZzFFAYc0Xpw-0e4-TZaIqZl4oDAfZ6.6s5chy6LIF4JTuCyq7Y%2BvLjbkJbhs9%2FParHyyBM9kxs	

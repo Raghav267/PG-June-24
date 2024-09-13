@@ -1,0 +1,10 @@
+views
+    prdocuts
+        product views
+    auth
+        ligin 
+        signup
+    
+
+    what does a product have
+    img, price, desc, name
