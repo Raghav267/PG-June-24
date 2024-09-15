@@ -34,14 +34,14 @@ router.patch("/products/:productid", async (req, res) => {
     const { productid } = req.params;
     const { name, price, img, desc } = req.body;
     await Product.findByIdAndUpdate(productid, { name, price, img, desc });
-    req.flash("update", "Product Updated Succefully")
+    req.flash("success", "Product Updated Succefully")
     res.redirect(`/products/${productid}`)
 })
 
 router.delete("/products/:productid", async (req, res) => {
     const { productid } = req.params;
     await Product.findByIdAndDelete(productid);
-    req.flash("delete", "Product deleted")
+    req.flash("success", "Product deleted")
     res.redirect("/products");
 
 })

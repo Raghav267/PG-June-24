@@ -29,10 +29,8 @@ const sessionConfig = {
 app.use(session(sessionConfig));
 app.use(flash());
 app.use((req, res, next) => {
-    res.locals.success = "this is success alrt";
-    res.locals.update = "update";
-    res.locals.delete = "delete";
-    res.locals.error = "error";
+    res.locals.success = req.flash("success");
+    res.locals.error = req.flash("error");
     next();
 })
 

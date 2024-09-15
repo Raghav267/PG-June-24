@@ -1,0 +1,21 @@
+Authentication  => digital sign. and Authorization => Access/Permissions
+
+
+Authentication from scratch
+
+otp based method
+goggle based login
+tradional method (username password)
+db =? ussername and password
+        harsh and (12345)abcdencxbv + passwordSalt bcd
+        manish and (12346)abcdehjj + jkl
+
+
+some propetties of encrypting fucntion
+
+encrypting fn should always be one way fucntion
+ slow
+
+harshraghav = 16523d6f590f444f2adf100c5407d329
+harshraghab = 12fa974f414bc53a55ef94c3f0b569cc
+
